@@ -1,0 +1,17 @@
+{
+    "id": 1,
+    "first_name": "Eric",
+    "middle_name": "",
+    "last_name": "Ochoa",
+    "date_of_birth": "1972-02-28",
+    "address": "7020 Copper Town Dr,",
+    "phone_number": 9154444311,
+    "email": "ericochoa1972@gmail.com",
+    "group": "staff",
+    "address_city": "El Paso",
+    "address_line2": "",
+    "address_state": "TX",
+    "address_zipcode": 79934,
+    "status": "active",
+    "fax_umber": ""
+}
